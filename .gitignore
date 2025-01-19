@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 下载的字体文件
+fonts/*.ttf
+fonts/*.otf
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 操作系统
+.DS_Store
+Thumbs.db 
